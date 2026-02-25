@@ -1,0 +1,53 @@
+.image{
+    height: 100px;
+    width: 30%;
+    align-items: center;
+    border-radius: 200px;
+    
+    border:solid #5f0870;
+
+
+}
+.card{
+    height: 450px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #39b61a;
+    box-sizing: border-box;
+    border: solid;
+    border-color: #37b0b9;
+    font: 1em sans-serif;
+     box-sizing: border-box rgb(70, 15, 2);
+    border:solid;
+    border-color: #1b0203;
+     font: 1em sans-serif;
+     padding-left: 10px;
+     padding-right: 10px;
+
+    
+}
+.title{
+    
+    text-align: center;
+    text-transform: capitalize;
+     background-color: #37b0b9;
+     padding-left: auto;
+     padding-right: auto;
+     
+
+}
+.name{
+    text-align: center;
+    text-transform: uppercase;
+    padding-left: auto;
+     padding-right: auto
+
+}
+.button{
+    text-align: center;
+    background-color: #d7e60a;
+    
+}
